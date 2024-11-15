@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/new/prefix1"/>
+    <qresource prefix="/">
+        <file>aadasdqs/supprimer.png</file>
+        <file>aadasdqs/search.png</file>
+        <file>aadasdqs/rafraichir.png</file>
+        <file>aadasdqs/bouton-supprimer.png</file>
+        <file>aadasdqs/bouton-modifier.png</file>
+        <file>aadasdqs/trier-par-ordre-croissant.png</file>
+    </qresource>
+</RCC>
